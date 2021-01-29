@@ -1,0 +1,60 @@
+	body{
+	/* background-image: url(../images/rccglogo.jpg); */
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin:0px;
+	background-size: 300px;
+	opacity:2.5;
+	  }
+
+ hr{
+border-style: dotted; 
+color:red;
+}
+#nav{
+font-size:15px;
+font-family:tahoma;
+color:red;
+}
+#left{
+	 background-color:green;
+	 color:#fff;
+	
+}
+#right{
+	  background-color:#000;
+	 color:#fff;
+	
+}
+	  
+a{
+text-decoration:none;
+}
+table a:hover{
+text-decoration: underline;
+background-color: #ccc;
+}
+marquee{
+background-color:green;
+color:#fff;
+}
+  .main{
+	  background-color:#fff;
+	  margin-top:0px;
+	  opacity:.8;
+	  hr{
+	  border-style:dashed;
+	  color:red;
+ }
+	    
+.footer{
+	
+	  background-color:green;
+	  color:#fff;
+	  width: 100%;
+	  margin-top:700px;
+  }
+	  
+
+	  
